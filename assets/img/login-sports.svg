@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 920" role="img" aria-labelledby="title desc">
+  <title id="title">Ilustrasi ekstrakurikuler olahraga</title>
+  <desc id="desc">Bola sepak, basket, voli, piala, dan perlengkapan olahraga dengan percikan warna.</desc>
+  <rect width="720" height="920" fill="#fffaf2"/>
+  <g opacity=".92">
+    <path d="M95 175c78-70 192-84 283-43 82 37 143 113 161 201 18 90-4 192-74 250-76 63-195 65-289 22-91-41-154-126-166-219-11-87 20-154 85-211Z" fill="#62a65a"/>
+    <path d="M76 663c78-72 243-69 353-51 109 18 201 58 204 113 3 56-80 126-194 143-113 17-259-20-341-70-83-50-100-92-22-135Z" fill="#ef9300"/>
+    <path d="M474 83c103 35 171 109 152 175-19 67-124 94-227 59-103-34-170-108-151-174 19-66 124-94 226-60Z" fill="#f59c16"/>
+    <path d="M138 350c59-58 158-68 220-23 61 44 62 127 2 185-59 58-157 68-219 24-61-45-62-128-3-186Z" fill="#168ac7"/>
+  </g>
+  <g stroke="#1d1a17" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(433 123) rotate(8)">
+      <circle cx="0" cy="0" r="118" fill="#f2ede7" stroke-width="7"/>
+      <path d="M-92-26c42-52 114-70 174-38 33 18 56 45 69 75" fill="#ba3c39" stroke-width="5"/>
+      <path d="M-91 31c51 45 123 57 187 17 29-18 49-44 60-73" fill="#ba3c39" stroke-width="5"/>
+      <path d="M-8-115c-13 72-7 148 18 224" fill="none" stroke-width="7"/>
+      <path d="M-33-100c21 8 43 10 67 5M-43-68c28 10 58 12 88 5M-49-33c34 10 70 12 106 4M-49 4c35 7 72 6 109-3M-42 39c31 2 63-2 94-12M-27 74c23-3 46-10 68-21" fill="none" stroke-width="4"/>
+    </g>
+    <g transform="translate(247 495) rotate(-12)">
+      <circle cx="0" cy="0" r="148" fill="#f7f5ef" stroke-width="8"/>
+      <path d="M-26-64 39-74 79-18 42 46-28 45-69-19Z" fill="#17191d" stroke-width="5"/>
+      <path d="M39-74 82-119M79-18l62 2M42 46l39 68M-28 45l-52 58M-69-19l-65-19M-26-64l-19-69" fill="none" stroke-width="5"/>
+      <path d="M-45-133c35-14 73-14 107 0M141-16c4 42-10 82-37 112M81 114c-35 25-82 34-124 20M-80 103c-37-23-61-61-66-104M-134-39c11-39 37-73 73-92" fill="none" stroke-width="5"/>
+    </g>
+    <g transform="translate(468 612) rotate(14)">
+      <circle cx="0" cy="0" r="133" fill="#d66a43" stroke-width="8"/>
+      <path d="M-130-11c75 20 162 13 249-25M-104 77c70-29 141-34 213-15M-26-128c-28 84-25 170 6 258M55-118c-14 86-7 166 23 238" fill="none" stroke-width="5"/>
+      <path d="M-71-83c47-33 105-40 157-19M-100 33c67 18 133 11 199-19" fill="none" stroke-width="4"/>
+    </g>
+    <g transform="translate(374 710) rotate(-16)">
+      <ellipse cx="0" cy="0" rx="92" ry="58" fill="#f2f1ec" stroke-width="7"/>
+      <path d="M-65-5c42 19 85 18 130-3M-10-56c-7 37-2 76 15 114" fill="none" stroke-width="5"/>
+    </g>
+    <g transform="translate(193 147) rotate(-17)">
+      <path d="M0 0h42v275H0z" fill="#d7dde2" stroke-width="7"/>
+      <path d="M-13 0h68v42h-68z" fill="#bfc9d1" stroke-width="7"/>
+      <path d="M7-70h28v70H7z" fill="#eef2f4" stroke-width="6"/>
+      <path d="M2-94h38v27H2z" fill="#c8d0d7" stroke-width="6"/>
+      <path d="M8 57h27M8 106h27M8 154h27M8 203h27" fill="none" stroke-width="4"/>
+    </g>
+    <g transform="translate(521 380)">
+      <path d="M-48-6h96l-22 217h-52z" fill="#e4a22c" stroke-width="7"/>
+      <path d="M-60-42H60v38H-60z" fill="#f0b23d" stroke-width="7"/>
+      <path d="M-22 8v195M20 8v195" fill="none" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
